@@ -1,3 +1,3 @@
-# test-repository
+# This my first repository
 
-this is a second update man
+i like apples and banana's
